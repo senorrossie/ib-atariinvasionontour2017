@@ -17,7 +17,7 @@
 			],
 			"description": {
 				"nl": "De Atari consoles staan niet bekend om de goede kwaliteit van hun video signaal. Er zijn diverse mods die daar iets aan proberen te doen. Mocht het je alleen te doen zijn om de console op een LCD scherm aan te sluiten, dan is een simpele video mod een optie.\n \nIn onze vitrine hebben we de AV mod van 'vintage gaming and more' liggen, net als de OSH Park PCB only versie zonder extra Audio aansluiting en een versie die op een 'perf' bordje is geknutseld. De 2600 Jr's zijn voorzien van deze mod, dus oordeel zelf over de kwaliteit.\n \nDe handleiding van 'vintage gaming and more' beschrijft de installatie procedure voor verschillende uitvoeringen van de 2600 en een procedure voor de 7800. Zie ook ons artikel in het HCC Commodore krantje van vandaag.",
-				"en": "Atari consoles are not known for their video signal quality, quite the opposite. There are several mods that try to address this. In case you only want to be able to connect a console to an LCD screen, a simple video mod will suffice.\n \nWe brought along the video mod from 'vintage gaming and more' as well as a PCB only version available from OSH Park that lacks an additional connection for the audo signal."
+				"en": "Atari consoles are not known for their video signal quality, quite the opposite. There are several mods that try to address this. In case you only want to be able to connect a console to an LCD screen, a simple video mod will suffice.\n \nWe brought along the video mod from 'vintage gaming and more' as well as a PCB only version available from OSH Park that lacks an additional connection for the audio signal."
 			}
 		},
 		{
@@ -234,7 +234,7 @@
 			],
 			"description": {
 				"nl": "De Poolse candle wilde een Atari 8bit geheugenuitbreiding die zo min mogelijk soldeerwerk vergt en in alle modellen (vanaf de 1200XL) zou werken. Het resultaat is de defacto standaard geheugenuitbreiding voor de atari 8bit geworden.\n \nDe geheugenuitbreiding heeft nog wat andere opties die ervoor hebben gezorgd dat dit de meest gebruikte is geworden:\n - Flashbaar SpartaDOS X slot (met 320kB ruimte)\n - Real Time Clock\n - 4 slots voor OS ROM in flash\n - Hardware schrijfbeveiliging voor het flash geheugen\n - 4 modus operandi voor de RAM uitbreiding (UIT, 320k RAMBO, 578k Compy Shop, 1088k RAMBO)\n - Flashbaar BASIC en GAME slot\n - Configureerbaar vanuit een BIOS achtige omgeving\n - Flashen vindt plaats in de Atari.\n \nAls je de SIDE2 cartridge aan het pakket toevoegt, kun je deze gebruiken als Harddisk. Geen gerotzooi met floppies, te weinig opslagcapaciteit is verleden tijd.",
-				"en": "A Polish Atari user named Candle wanted an 8-bit memory expansion that required little soldering and works an all models from the 1200XL onwards. This resulted in the defacto standard memory expansion for Atari 8bit computers: The Ultimate 1MB.\n \nThe expansion provides some additional features that made this the goto expansion:\n - Flashable SpartaDOS X slot (320kB space)\n - Real Time Clock\n - 4 slots for OS ROM in flash\n - Hardware write protected flash ram\n - 4 modus operandi for the RAM expansion (Off, 320k RAMBO, 578k Compy Shop, 1088k RAMBO)\n - Flashable BASIC and GAME slot\n - Configurable from a BIOS like environment\n - Flashable from the Atari console.\n \nWhen used in conjuction with the SIDE2 cartridge, the later can be used as harddisk: No more messing around with floppies, lack of space has become a thing of the past."
+				"en": "A Polish Atari user named Candle wanted an 8-bit memory expansion that required little soldering and works for all models from the 1200XL onwards. This resulted in the defacto standard memory expansion for Atari 8bit computers: The Ultimate 1MB.\n \nThe expansion provides some additional features that made this the goto expansion:\n - Flashable SpartaDOS X slot (320kB space)\n - Real Time Clock\n - 4 slots for OS ROM in flash\n - Hardware write protected flash ram\n - 4 modus operandi for the RAM expansion (Off, 320k RAMBO, 578k Compy Shop, 1088k RAMBO)\n - Flashable BASIC and GAME slot\n - Configurable from a BIOS like environment\n - Flashable from the Atari console.\n \nWhen used in conjuction with the SIDE2 cartridge, the later can be used as harddisk: No more messing around with floppies, lack of space has become a thing of the past."
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			],
 			"description": {
 				"nl": "Volgens de website van Radek (aka RASTER) stamt de MultiJoy uit 1998. Het concept biedt ruimte voor maximaal 16 joysticks, aangesloten op een Atari computer met 2 joystick poorten.\n \nDe MultiJoy die wij vandaag gebruiken voor de MultiJoy spel competitie heeft als basis het design uit 2007 van dezelfde RASTER en is door IvoP omgezet in een PCB ontwerp in het gerber formaat.\n \nOmdat de MultiJoy al wat langer bestaat zijn er verschillende spellen voor gemaakt en bestaande spellen gepatcht. Niet al deze spellen ondersteunen 8 of zelfs 16 spelers, maar ook met 4 spelers is er veel plezier te beleven.",
-				"en": "According to Radek's website the multijoy stems from 1998. The concept should work with up to 16 joysticks connected to a single Atari console.\n \nThe multijoy we brought along is based on the 2007 design by the aforementioned Radek (aka RASTER). A member of the Atari Invasion created a gerber file from it and had some boards made.\n \nAs the multijoy has been out in the wild for quite some time, the games that can make use of it our available in large amounts. As are patched versions of existing games."
+				"en": "According to Radek's website the multijoy stems from 1998. The concept should work with up to 16 joysticks connected to a single Atari console.\n \nThe multijoy we brought along is based on the 2007 design by the aforementioned Radek (aka RASTER). A member of the Atari Invasion created a gerber file from it and had some boards made.\n \nAs the multijoy has been out in the wild for quite some time, the games that can make use of it are available in large amounts. As are patched versions of existing games."
 			}
 		},
 		{
@@ -525,7 +525,7 @@
 			],
 			"description": {
 				"nl": "Yastuna volume 1 is een compilatie van een aantal spellen voor de Lynx.\n \nJe kunt sowieso 6 spellen vanuit het hoofdmenu spelen, maar er zijn ook nog een aantal spellen verborgen die je zelf vrij moet spelen.\n \nHet spel is als ROM beschikbaar voor download en te gebruiken op je flash -, multi cartridge of Lynx emulator.\n \nDe versie die wij mee hebben heeft een nooit uitgebrachte Nederlandse versie van ‘Merlain’s Quest’.",
-				"en": ""
+				"en": "Yastuna volume 1 is a game compilation for the Atari Lynx.\n \nThere are 6 games visible from the main menu, but there are more to find during gameplay.\n \nThe game is available as ROM or can be downloaded to use on your flash multicart or Lynx emulator.\n \nWe bring a version which includes the never released Dutch version of ‘Merlain’s Quest’."
 			}
 		},
 		{
@@ -614,7 +614,7 @@
 			],
 			"description": {
 				"nl": "Zoals met zovele homebrew games, heeft het even geduurd voordat dit spel werd uitgebracht. In het geval van Rebooteroids duurde het ontwikkeltraject zes jaar.\n \nHet verhaal: Het 'hyperspace test schip' EWS werkt niet goed meer. Zonder navigatie data bevind je je in een zee van dodelijke, draaiende objecten. Wapens werken nog en met de hyper drive kun je nog korte sprongen maken. Maar verder moet je het van je reactievermogen hebben, wil je een kans maken te overleven.",
-				"en": ""
+				"en": "It took a while until this game was released, ss always with a lot of howebrew games. In case of Rebooteroids the development took six years.\n \nThe story: the 'the hyperspace test ship' EWS is malfunctioning. Without navigational data you find yourself in a deadly sea of rotating objects. Weapons still work and you can make small leaps with the hyper drive. But it requires your responsiveness to have a chance to survive."
 			}
 		}
     ]
