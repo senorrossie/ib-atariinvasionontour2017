@@ -408,7 +408,7 @@
 			],
 			"description": {
 				"nl": "De '2003 AtariAge Holiday Cart' is ontwikkeld door Andrew Davie.\n \nJe kreeg een exemplaar van de cartridge bij besteding van  meer dan $50 in de Atari Age shop tijdens de feestdagen van 2003.\n \nDe cartridge bevat een demo die bestaat uit een plaatje dat telkens horizontaal gespiegeld wordt.",
-				"en": ""
+				"en": "The '2003 AtariAge Holiday Cart' is developed by Andrew Davie.\n \nThis cartridge was given out to customers who spend over $50 at the Atari Age shop during the holidays in 2003.\n \nThe cart contains a demo showing a picture which is mirrored horizontally."
 			}
 		},
 		{
