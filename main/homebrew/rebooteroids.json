@@ -1,0 +1,12 @@
+{
+    "name": "Rebooteroids",
+    "platform": "Jaguar",
+    "released": "14-11-2016",
+    "author": "Reboot",
+    "players": "1-2",
+    "controller": "Gamepad/Rotary",
+    "extras": "-",
+    "description": {
+        "en": "It took a while until this game was released, ss always with a lot of howebrew games. In case of Rebooteroids the development took six years.\n \nThe story: the 'the hyperspace test ship' EWS is malfunctioning. Without navigational data you find yourself in a deadly sea of rotating objects. Weapons still work and you can make small leaps with the hyper drive. But it requires your responsiveness to have a chance to survive."
+    }
+}

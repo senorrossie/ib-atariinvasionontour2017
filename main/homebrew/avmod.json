@@ -7,6 +7,6 @@
     "controller": "-",
     "extras": "-",
     "description": {
-        "en": "Atari consoles are not known for their video signal quality, quite the opposite. There are several mods that try to address this. In case you only want to be able to connect a console to an LCD screen, a simple video mod will suffice.\n \nWe brought along the video mod from 'vintage gaming and more' as well as a PCB only version available from OSH Park that lacks an additional connection for the audo signal."
+        "en": "Atari consoles are not known for their video signal quality, quite the opposite. There are several mods that try to address this. In case you only want to be able to connect a console to an LCD screen, a simple video mod will suffice.\n \nWe brought along the video mod from 'vintage gaming and more' as well as a PCB only version available from OSH Park that lacks an additional connection for the audio signal."
     }
 }

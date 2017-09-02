@@ -7,6 +7,6 @@
     "controller": "Joystick",
     "extras": "-",
     "description": {
-        "en": "According to Radek's website the multijoy stems from 1998. The concept should work with up to 16 joysticks connected to a single Atari console.\n \nThe multijoy we brought along is based on the 2007 design by the aforementioned Radek (aka RASTER). A member of the Atari Invasion created a gerber file from it and had some boards made.\n \nAs the multijoy has been out in the wild for quite some time, the games that can make use of it our available in large amounts. As are patched versions of existing games."
+        "en": "According to Radek's website the multijoy stems from 1998. The concept should work with up to 16 joysticks connected to a single Atari console.\n \nThe multijoy we brought along is based on the 2007 design by the aforementioned Radek (aka RASTER). A member of the Atari Invasion created a gerber file from it and had some boards made.\n \nAs the multijoy has been out in the wild for quite some time, the games that can make use of it are available in large amounts. As are patched versions of existing games."
     }
 }
