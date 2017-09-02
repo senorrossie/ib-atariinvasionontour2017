@@ -1,0 +1,13 @@
+{
+    "id": "800xl",
+    "name": "Atari 800XL",
+    "alias": "-",
+    "platform": "8-bit",
+    "released": "06-1983",
+    "dropped": "02-1985",
+    "RAM": "64k",
+    "price": "$299",
+    "description": {
+        "en": "The Atari 800XL was the bigger brother of the 600XL, both in size and capacity. It was to replace both the Atari 800 and the Atari 1200XL.\n \nAlthough the 800XL would ultimately be the most popular computer sold by Atari, the company was unable to defend its marketshare, and the race to the bottom reduced Atari's profits. Although the 600/800 were well positioned in terms of price and features, during the critical Christmas season they were available only in small numbers while the Commodore 64 was widely available, because Atari had difficulty in transitioning manufacturing to Asia after closing its US factory."
+    }
+}

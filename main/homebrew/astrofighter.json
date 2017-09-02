@@ -1,0 +1,12 @@
+{
+    "name": "Astro Fighter",
+    "platform": "7800",
+    "released": "26-07-2015",
+    "author": "Robert DeCrescenzo",
+    "players": "1-2",
+    "controller": "Joystick",
+    "extras": "-",
+    "description": {
+        "en": "Astro Fighter is a 2D space shooter. The arcade game from 1980 was ported to the 7800 by Robert DeCrescenzo.\n \nThis is a turn based space adventure: During the meteor shower you have to fight your way through four waves of enemy ships in order to reach and hopefully defeat 'the master'."
+    }
+}

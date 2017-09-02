@@ -1,0 +1,12 @@
+{
+    "name": "Donkey Kong VCS",
+    "platform": "2600",
+    "released": "Work in Progress",
+    "author": "Joe Musashi",
+    "players": "1-2",
+    "controller": "Joystick",
+    "extras": "-",
+    "description": {
+        "en": "Every generation of gamers knows or at least recognizes Donkey Kong.\n \nOn 14 december 2012 Joe Musashi posted a message in the Atari Age 'Homebrew Discussion' forum that he was so impressed by the Donkey Kong intro demo, he wanted to attempt to create an arcade like game using the methods used in the demo. In the next posts (there were 32 pages(!) last we checked) he logged his progress.\n \nWe are very impressed by Joe's work in the past 4 years. His D.K. VCS looks and feels like the version we remember from the arcade. All 4 levels are present, including the intermission screens, all crammed into a 32k ROM and even the sound is present!"
+    }
+}

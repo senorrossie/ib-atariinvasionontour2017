@@ -1,0 +1,12 @@
+{
+    "name": "Defend your castle",
+    "platform": "2600",
+    "released": "24-12-2016",
+    "author": "S. Schouten",
+    "players": "2",
+    "controller": "Joystick",
+    "extras": "-",
+    "description": {
+        "en": "It was Christmas eve 2016 when Sijmen released his third game.\n \nAfter two releases for the 8-bit Atari's, it was time for a 2600/VCS release.\n \nIn case you did not recognize it, the castle in the boxart image is Liverpool Castle."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Ultimate 1MB",
+    "platform": "8-bit (XL/XE)",
+    "released": "2011",
+    "author": "Candle / Lotharek",
+    "players": "-",
+    "controller": "-",
+    "extras": "SpartaDOS X, RTC",
+    "description": {
+        "en": "A Polish Atari user named Candle wanted an 8-bit memory expansion that required little soldering and works an all models from the 1200XL onwards. This resulted in the defacto standard memory expansion for Atari 8bit computers: The Ultimate 1MB.\n \nThe expansion provides some additional features that made this the goto expansion:\n - Flashable SpartaDOS X slot (320kB space)\n - Real Time Clock\n - 4 slots for OS ROM in flash\n - Hardware write protected flash ram\n - 4 modus operandi for the RAM expansion (Off, 320k RAMBO, 578k Compy Shop, 1088k RAMBO)\n - Flashable BASIC and GAME slot\n - Configurable from a BIOS like environment\n - Flashable from the Atari console.\n \nWhen used in conjuction with the SIDE2 cartridge, the later can be used as harddisk: No more messing around with floppies, lack of space has become a thing of the past."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "MyIDE",
+    "platform": "8-bit",
+    "released": "1999",
+    "author": "S. Schouten",
+    "players": "-",
+    "controller": "Keyboard/Joystick",
+    "extras": "Harddisk, 512kB SRAM, 512kB Flash",
+    "description": {
+        "en": "The MyIDE cartridge originated in the brain of Sijmen Schouten in 1999. It allowed for a harddisk to be connected directly to the Atari 8bit computer. Due to lack of time, he licensed the design to Steve Tucker of AtariMax."
+    }
+}

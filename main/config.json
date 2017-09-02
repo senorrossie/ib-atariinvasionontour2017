@@ -1,0 +1,8 @@
+{
+    "default":60,
+    "analog-clock":60,
+    "homebrew":300,
+    "images":60,
+    "imagewall":120,
+    "videos":600
+}

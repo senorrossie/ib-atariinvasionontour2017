@@ -1,0 +1,12 @@
+{
+    "name": "Fairlight",
+    "platform": "8-bit (64k)",
+    "released": "25-12-2016",
+    "author": "Mariusz",
+    "players": "1",
+    "controller": "Joystick/Keyboard",
+    "extras": "-",
+    "description": {
+        "en": "According to the visitors of 'World of Spectrum' this game, written by Bo Jangeborg, is the best game for the ZX Spectrum.\n \nThe Atari 8-bit version is a direct port of the C64 version and was executed by:\nCode: Mariusz\nScreens: Jose Pereira\nSound FX: Wieczor\n \nFairlight for Atari 8-bit was release at christmas 2016."
+    }
+}

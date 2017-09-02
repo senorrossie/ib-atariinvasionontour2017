@@ -1,0 +1,12 @@
+{
+    "name": "Lost in space",
+    "platform": "8-bit (16k)",
+    "released": "24-12-2015",
+    "author": "S. Schouten",
+    "players": "1-4",
+    "controller": "Paddle/Custom",
+    "extras": "-",
+    "description": {
+        "en": "The second game by Sijmen is a port of the Odyssey 2 game called Space Rendezvous.\n \nThis game was also officially released during christmas eve (2015). An XEGS cart version is now available.\n \nThere were custom controllers created by an ABBUC member, in the same colors as the players on screen, so you will never have to guess which player you control."
+    }
+}

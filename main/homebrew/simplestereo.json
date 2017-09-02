@@ -1,0 +1,12 @@
+{
+    "name": "Simple Stereo",
+    "platform": "8-bit",
+    "released": "198?",
+    "author": "Lotharek",
+    "players": "-",
+    "controller": "Keyboard/Joystick",
+    "extras": "USwitch",
+    "description": {
+        "en": "We decided to bring the simple stereo by Lotharek, but there have been stereo enhancements around since the 80s. Chuck Steinman of DataQueue fame was the first to come up with the idea as the story goes. He definitely was not the last.\n \nThe simple stereo board by Lotharek does not come with a second POKEY chip, you need to order one seperately or happen to have one lying around.\n \nInstallation is relatively simple, but bear in mind that you need to modify the Atari casing (RCA jacks and optional switch) and you have to solder a couple of wires."
+    }
+}

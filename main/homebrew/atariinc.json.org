@@ -1,0 +1,66 @@
+{
+	"hardware": [
+        {
+            "id": "400",
+            "name": "Atari 400",
+            "alias": "Candy",
+            "platform": "8-bit",
+            "released": "10-1979",
+            "dropped": "11-1983",
+            "RAM": "8k",
+            "price": "$549.95",
+            "description": {
+                "en": "The Atari 400 was announced in 1978 but was not released until the end of 1979.\n \nThe initial amount of RAM was set at 4kB, which was upped at its introduction to 4k and later even to 16kB.\n \nBoth the 400 and the 800 were named after secretaries at Atari Inc. Candy was marketed as a game machine or hybrid game console and initially did not have a keyboard."
+            }
+        },
+        {
+            "id": "800",
+            "name": "Atari 800",
+            "alias": "Colleen",
+            "platform": "8-bit",
+            "released": "10-1979",
+            "dropped": "11-1983",
+            "RAM": "48k",
+            "price": "$999.95",
+            "description": {
+                "en": "The Atari 800 was announced in 1978 but was not released until the end of 1979.\n \nThe initial amount of RAM was set at 8kB, which was upped at its introduction to 48k.\n \nBoth the 400 and the 800 were named after secretaries at Atari Inc. Colleen was marketed as 'real' computer, complete with expansion slots and a 'friendly' typewriter look."
+            }
+        },
+        {
+            "id": "1200xl",
+            "name": "Atari 1200XL",
+            "alias": "",
+            "platform": "8-bit",
+            "released": "03-1983",
+            "dropped": "06-1983",
+            "RAM": "48k",
+            "price": "$899",
+            "description": {
+                "en": "The Atari 1200XL was short lived. Announced in december 1982 and presented during winter CES in january 1983, it shipped in march.\n \nThe machine had a lot of issues and even incomplete features (improved video circuit not connected to monitor jack). Design changes led to non working peripherals (Atari and 3rd party) and OS changes also resulted in incompatible software.\n \nThe press warned Atari of the hefty price tag, by comparison, the 800 it should supersed was sold at less than $700. It is told that people started hoarding the 800 machines, afraid the machine would disappear soon.\n \nThe 1200XL is not released in a PAL version."
+            }
+        }
+	],
+	"software": [
+		{
+			"id": "211",
+			"time": "30",
+			"name": "Defend your castle",
+			"platform": "2600",
+			"released": "24-12-2016",
+			"author": "S. Schouten",
+			"players": "2",
+			"controller": "Joystick",
+			"extras": "-",
+			"images": [
+				{ "value": "box.2600-DegendYourCastle.jpg" },
+				{ "value": "label.2600-DefendYouCastle.jpg" },
+				{ "value": "ss.2600-DefendYourCastle.png" },
+				{ "value": "ss.2600-DefendYourCastle2.png" }
+			],
+			"description": {
+				"nl": "Op kerstavond 2016 bracht Sijmen zijn derde game uit.\n \nNa twee releases voor de Atari 8bit, was het dit keer de beurt aan de Atari 2600/VCS.\n \nMocht je het niet herkend hebben, het kasteel dat je in de 'boxart' ziet is Liverpool Castle.",
+				"en": "It was Christmas eve 2016 when Sijmen released his third game.\n \nAfter two releases for the 8-bit Atari's, it was time for a 2600/VCS release.\n \nIn case you did not recognize it, the castle in the boxart image is Liverpool Castle."
+			}
+        }
+    ]
+}

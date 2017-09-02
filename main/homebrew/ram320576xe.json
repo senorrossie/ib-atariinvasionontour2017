@@ -1,0 +1,12 @@
+{
+    "name": "RAM 320/576XE",
+    "platform": "8-bit (XE)",
+    "released": "2014",
+    "author": "Ctirad",
+    "players": "-",
+    "controller": "-",
+    "extras": "Covox",
+    "description": {
+        "en": "The RAM 320XE/576 is a plug & play memory expansion for the Atari 8-bit XE range of computers. The only requirement is the machine needs to have an ECI port (exceptions are the XEGS and some 65XE models).\n \nA big advantage of this mod is that there is no need for soldering, better yet, there is no need for a screwdriver either!\n \nThe box is designed so that it rests on the same underground as the machine and allows you to insert cartridges vertically.\n \nThere is also an optional COVOX audio DAC onboard."
+    }
+}

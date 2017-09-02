@@ -1,0 +1,12 @@
+{
+    "name": "Boulder Dash",
+    "platform": "VCS/2600",
+    "released": "2012",
+    "author": "Andrew Davie, Thomas Jentzsch",
+    "players": "1-2",
+    "controller": "Joystick",
+    "extras": "AtariVox Enhanced",
+    "description": {
+        "en": "This game probably does not need an introduction, but just in case...\n \nBoulder Dash, written by Peter Liepa, was released in 1984 by 'First Star Software' on C64 and Atari Homecomputers. You are 'Rockford' and you are tasked with collecting as many diamonds as possible (at least enough to open the exit) within the time limit.\n \nThe 2012 VCS port has 16 caves and 5 difficulty levels. The limited edition (250) was released with a manual and some diamonds!\n \nThe demo version that is available as ROM can be played in either an emulator (Stella), or with the Harmony cartridge."
+    }
+}

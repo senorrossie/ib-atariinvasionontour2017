@@ -1,0 +1,12 @@
+{
+    "name": "KC Munchkin",
+    "platform": "7800",
+    "released": "6-4-2014",
+    "author": "Robert DeCrescenzo",
+    "players": "1",
+    "controller": "Joystick",
+    "extras": "-",
+    "description": {
+        "en": "Porting K.C. Munchkin to the 7800 was first taken up by Atari Age user Jaynz in january 2014. The port was eventually completed and released by Robert DeCrescenzo.\n \nK.C. Munchkin is a controversial title for Atari, as the game was released for the Odyssey 2 and Atari successfully sued Philips over its release, claiming it was too much like pac-man, for which Atari had the exclusive rights."
+    }
+}

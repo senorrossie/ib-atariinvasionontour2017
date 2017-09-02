@@ -1,0 +1,12 @@
+{
+    "name": "AtariVox+",
+    "platform": "VCS/2600 / 7800 / Vectrex",
+    "released": "2002",
+    "author": "Richard Hutchinson",
+    "players": "-",
+    "controller": "-",
+    "extras": "32kB Memory, 5 Channel Synth",
+    "description": {
+        "en": "The AtariVOX+ adapter is a neat gadget. The on-board Speak-Jet chip provides \u2018AtariVOX Enhanched\u2019 games with speech synthesis like in the 80s. The same chip has some on-board sounds and also can be used as a 5 channel music synthesizer.\n \nThe AtariVOX+ can be used with 2600, 7800 and Vectrex consoles. When used with the 7800 or Vectrex you will need a piece of joystick extension cable, or you can remove the casing.\n \nAnd lets not forget to mention the 32kB FLASH memory, that some games use to store high-scores. The AtariVOX+ is available from the Atari Age store."
+    }
+}

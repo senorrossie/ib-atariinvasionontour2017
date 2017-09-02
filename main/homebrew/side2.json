@@ -1,0 +1,12 @@
+{
+    "name": "SiDE2",
+    "platform": "8-bit (XL/XE)",
+    "released": "2011",
+    "author": "Candle / Lotharek",
+    "players": "-",
+    "controller": "-",
+    "extras": "SpartaDOS X, RTC",
+    "description": {
+        "en": "The SiDE interface by Sebastian Bartkowicz provides a harddisk - and much more - to the Atari 8-bit computer by means of a cartridge.\n \nThe cartridge has a special version of the SpartaDOS X and a real time clock on board."
+    }
+}

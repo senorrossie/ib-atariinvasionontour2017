@@ -1,0 +1,13 @@
+{
+    "id": "800",
+    "name": "Atari 800",
+    "alias": "Colleen",
+    "platform": "8-bit",
+    "released": "10-1979",
+    "dropped": "11-1983",
+    "RAM": "48k",
+    "price": "$999.95",
+    "description": {
+        "en": "The Atari 800 was announced in 1978 but was not released until the end of 1979.\n \nThe initial amount of RAM was set at 8kB, which was upped at its introduction to 48k.\n \nBoth the 400 and the 800 were named after secretaries at Atari Inc. Colleen was marketed as 'real' computer, complete with expansion slots and a 'friendly' typewriter look."
+    }
+}

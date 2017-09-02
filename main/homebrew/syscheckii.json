@@ -1,0 +1,12 @@
+{
+    "name": "SysCheck II",
+    "platform": "8-bit (XL/XE)",
+    "released": "ABBUW HW Compo 2014",
+    "author": "Juergen van Radecke",
+    "players": "-",
+    "controller": "Keyboard",
+    "extras": "Alt OS, RAM Expansion (512kB)",
+    "description": {
+        "en": "The design that finished third in the ABBUC Hardware contest 2014 was not much more than a ROM switcher capable of testing RAM and ROM of XL/XE hardware (with exception of the 1200XL and XEGS).\n \nThe design is quite clever as it can function as cartridge extension on XE models, allowing you to insert cartridges vertical.\n \nThe successor to the version from the ABBUC competition also serves as memory expansion (up to 512k RAMBO compatible) and can now be flashed on the Atari."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "CosmosEx",
+    "platform": "ST",
+    "released": "2014",
+    "author": "Jookie",
+    "players": "-",
+    "controller": "Keyboard/Mouse",
+    "extras": "USB HID, USB HD, Network HD, much more",
+    "description": {
+        "en": "Jookie, the creator of the CosmosEx describes his own creation as:\nCosmosEx is a device for Atari ST computers which replaces multiple peripherals in single box. Your Atari peripheral cosmos is now expanding!\n"
+    }
+}

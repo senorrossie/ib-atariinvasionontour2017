@@ -1,0 +1,621 @@
+{
+	"hardware": [
+		{
+			"id": "111",
+			"time": "30",
+			"name": "A/V Mod",
+			"platform": "VCS/2600 / 7800",
+			"released": "???",
+			"author": "Homebrew",
+			"players": "-",
+			"controller": "-",
+			"extras": "-",
+			"images": [
+				{ "value": "kit.avmod.jpg" },
+				{ "value": "pcb.avmod.jpg" },
+				{ "value": "pcb.avmod_osh.jpg" }
+			],
+			"description": {
+				"nl": "De Atari consoles staan niet bekend om de goede kwaliteit van hun video signaal. Er zijn diverse mods die daar iets aan proberen te doen. Mocht het je alleen te doen zijn om de console op een LCD scherm aan te sluiten, dan is een simpele video mod een optie.\n \nIn onze vitrine hebben we de AV mod van 'vintage gaming and more' liggen, net als de OSH Park PCB only versie zonder extra Audio aansluiting en een versie die op een 'perf' bordje is geknutseld. De 2600 Jr's zijn voorzien van deze mod, dus oordeel zelf over de kwaliteit.\n \nDe handleiding van 'vintage gaming and more' beschrijft de installatie procedure voor verschillende uitvoeringen van de 2600 en een procedure voor de 7800. Zie ook ons artikel in het HCC Commodore krantje van vandaag.",
+				"en": "Atari consoles are not known for their video signal quality, quite the opposite. There are several mods that try to address this. In case you only want to be able to connect a console to an LCD screen, a simple video mod will suffice.\n \nWe brought along the video mod from 'vintage gaming and more' as well as a PCB only version available from OSH Park that lacks an additional connection for the audo signal."
+			}
+		},
+		{
+			"id": "113",
+			"time": "30",
+			"name": "Pause Mod",
+			"platform": "VCS/2600",
+			"released": "???",
+			"author": "Homebrew",
+			"controller": "-",
+			"players": "-",
+			"extras": "-",
+			"images": [
+				{ "value": "kit.pausemod.jpg" },
+				{ "value": "pcb.pausemod.png" },
+				{ "value": "pcb.pausemod_osh.png" }
+			],
+			"description": {
+				"nl": "Een gebrek aan functionaliteit voor de 2600 was toch wel het niet kunnen pauzeren van een spel. Met de pause mod is dat verholpen en kun je eindelijk een plaspauze inlassen, zonder dat je je high-score poging moet afbreken.\n \nIn onze vitrine hebben we zowel de pause mod van 'vintage gaming and more' als de OSH Park PCB only versie liggen.\n \nDe installatie handleiding van 'vintage gaming and more' beschrijft de inbouw procedure voor verschillende uitvoeringen van de 2600.",
+				"en": "The Atari VCS/2600 consoles lack a pause feature. This is solved with a simple modification called the 'pause mod'. With it you can finally go the bathroom in the middle of a record high-score attempt!\n \nWe brought with us both the pause mod by 'vintage gaming and more' as well as the OSH Park PCB only version.\n \nThe installation manual by 'vintage gaming and more' covers the various 2600 systems and can be found on their website."
+			}
+		},
+		{
+			"id": "115",
+			"time": "30",
+			"name": "Harmony Multicart",
+			"platform": "VCS/2600 / 7800",
+			"released": "2009",
+			"author": "Fred Quimby",
+			"players": "-",
+			"controller": "-",
+			"extras": "-",
+			"images": [
+				{ "value": "cart.harmony.jpg" },
+				{ "value": "logo.harmony.jpg" },
+				{ "value": "ss.harmony.jpg" }
+			],
+			"description": {
+				"nl": "De Atari 2600/VCS cartridges zijn genoeg in het wild te vinden en ook homebrew software is vaak voorradig in de diverse webwinkels. Maar je zult ruimtegebrek hebben (of gewoon niet zo\u2019n verzamelaar zijn) en toch al die software willen spelen op je console.\n \nFred Quimby heeft in 2009 de Harmony Cartridge uitgebracht en verkoopt deze nog steeds via harmony.atariage.com. Inmiddels is de Harmony Encore ook verschenen, die ook cartridges van 512k ondersteund en dus ook de laatste homebrew cartridges.\n \nFEIT: Op een 16Mb kaartje kun je alle officieel uitgebrachte roms al kwijt.",
+				"en": "Atari 2600/VCS cartridges are plentifull available in the wild, as is homebrew software in most places.\n \nIf you do not have a lot of space to store all your cartridges, or you just are not that much into all those physical things, but still want to play all the games on your console, the Harmony Cartridge is just what you need!\n \nFred Quimby released the Harmony Cartridge in 2009 and is still selling them through http://harmony.atariage.com. Recently the Harmony Encore was released, the biggest change is support for 512k bankswitched carts, so the latest homebrew releases are supported too.\n \nFACT: You can store all official Atari 2600 releases on a 16Mb flash card!"
+			}
+        },
+		{
+			"id": "116",
+			"time": "30",
+			"name": "AtariVox+",
+			"platform": "VCS/2600 / 7800 / Vectrex",
+			"released": "2002",
+			"author": "Richard Hutchinson",
+			"players": "-",
+			"controller": "-",
+			"extras": "32kB Memory, 5 Channel Synth",
+			"images": [
+				{ "value": "dev.atarivox.png" },
+				{ "value": "logo.atarivox.jpg" },
+				{ "value": "man.atarivox.jpg" },
+				{ "value": "pcb.atarivox.jpg" },
+				{ "value": "pcb.atarivox2.jpg" }
+			],
+			"description": {
+				"nl": "De AtariVOX+ adapter is een leuke gadget. De Speak-Jet chip voorziet \u2018AtariVOX Enhanched\u2019 spellen van spraak, zoals dit in de jaren 80 gebruikelijk was. Diezelfde SpeakJet heeft nog wat standaard geluiden aan boord en kan gebruikt worden als 5 kanaals muziek synthesizer.\n \nDe AtariVOX+ werkt met de 2600, 7800 en de Vectrex console. Voor de 7800 en Vectrex heb je eigenlijk nog een stukje joystick verleng kabel nodig, of je moet het kastje weglaten.\n \nLaten we niet vergeten dat er ook 32kB FLASH aan boord zit, waar sommige games gebruik van maken om (high-) scores in op te slaan. De AtariVOX+ wordt geleverd door Atari Age.",
+				"en": "The AtariVOX+ adapter is a neat gadget. The on-board Speak-Jet chip provides ‘AtariVOX Enhanched’ games with speech synthesis like in the 80s. The same chip has some on-board sounds and also can be used as a 5 channel music synthesizer.\n \nThe AtariVOX+ can be used with 2600, 7800 and Vectrex consoles. When used with the 7800 or Vectrex you will need a piece of joystick extension cable, or you can remove the casing.\n \nAnd lets not forget to mention the 32kB FLASH memory, that some games use to store high-scores. The AtariVOX+ is available from the Atari Age store."
+			}
+	},
+		{
+			"id": "121",
+			"time": "30",
+			"name": "Mateos' Multicart",
+			"platform": "7800",
+			"released": "2016",
+			"author": "jfmateos",
+			"players": "-",
+			"controller": "-",
+			"extras": "(!)Burner needed, 16 128kB slots",
+			"images": [
+				{ "value": "pcb.burner.png" },
+				{ "value": "pcb.multicart.jpg" },
+				{ "value": "poster.burner.jpg" }
+			],
+			"description": {
+				"nl": "Soms wacht je al zo lang dat je de hoop hebt opgegeven. Zo ook de 7800 community, zij wachten al tijden op de 7800 versie van de Harmony cart: de Encore.\n \nEn dan was daar ineens op 16 april 2016 een video met een \u2018preliminary version\u2019 van een 7800 multicart! Niet veel later was deze cartridge ook werkelijk te bestellen. Je hebt er wel de burner (MATEOS VECTREX BURNER-DUMPER (MVBD)) bij nodig, maar als je ook vectrex, lynx of videopac systemen gebruikt, is dat een goede investering.\n \nJe kunt een POKEY chip kwijt op de multicart zodat je spellen die daar gebruik van maken ook kunt spelen. Je kunt 16 128k spelen op de kaart kwijt. Voor een 144k spel ben je 2 128k slots kwijt.",
+				"en": "There are times where you've waited for something too long and gave up hope. That is what happened to the 7800 community, they were waiting for years for a 7800 version of the Harmony cart: the Harmony Encore.\n \nAnd then on april 16th 2016 there appeared a video with a ‘preliminary version’ of a 7800 multicart! Not much later it even was available to order! Although you require burner hardware to actually use it, if you also collect Vectrex, Lynx or VideoPAC hardware, the burner is actually a good investment.\n \nIt is possible to add a POKEY chip to the cart so you can also run POKEY enhanced games. The cart has room for 16 128k games, so if you burn a 144k game it uses two slots."
+			}
+		},
+		{
+			"id": "131",
+			"time": "30",
+			"name": "McWill Screen Mod",
+			"platform": "Lynx",
+			"released": "2013",
+			"author": "McWill",
+			"players": "-",
+			"controller": "-",
+			"extras": "VGA Out",
+			"images": [
+				{ "value": "pcb.mcwill.jpg" },
+				{ "value": "pcb.mcwill2.jpg" },
+				{ "value": "result.mcwill.jpg" },
+				{ "value": "ss.mcwill.jpg" }
+			],
+			"description": {
+				"nl": "Soms komen goede dingen in drie\u00ebn. Zo ook de Lynx screen mod. Wij hebben een aantal tevreden gebruikers van de McWill mod in ons midden en die raden deze mod zeker aan.\n \nBehalve een beter scherm voor je Lynx, kun je met deze mod de Lynx ook uitbreiden met een VGA aansluiting, zodat je de spellen kunt spelen op een groot scherm. Niet iedereen wil dat, dus gelukkig is de VGA aansluiting optioneel.",
+				"en": "The Lynx screen mod arrived in three variations. Our preference has the McWill mod.\n \nBesides a better screen for the Lynx it also provides VGA output so you can play your games on the big screen. As not everyone wants to go that route, the VGA output is optional."
+			}
+		},
+		{
+			"id": "141",			
+			"time": "30",
+			"name": "SysCheck II",
+			"platform": "8-bit (XL/XE)",
+			"released": "ABBUW HW Compo 2014",
+			"author": "Juergen van Radecke",
+			"players": "-",
+			"controller": "Keyboard",
+			"extras": "Alt OS, RAM Expansion (512kB)",
+			"images": [
+				{ "value": "pcb.syscheckii.jpg" },
+				{ "value": "ss-syscheckii.png" },
+				{ "value": "ss-syscheckii3.png" },
+				{ "value": "ss-syscheckii4.png" },
+				{ "value": "ss-syscheckii5.png" },
+				{ "value": "ss-syscheckii6.png" },
+				{ "value": "ss.syscheckii2.jpg" }
+			],
+			"description": {
+				"nl": "Het ontwerp dat de derde plaats behaalde in de ABBUC Hardware contest 2014, kon niet veel meer dan fungeren als ROM switcher, of het RAM en het ROM van de Atari XL/XE computers testen, met uitzondering van de 600XL,1200XL en XEGS.\n \nHet ontwerp van de print en plaatsing van de componenten is dusdanig slim gedaan, dat je met de SYS-Check II in je XE machine, cartridges horizontaal in het cartridge slot van de SYS-Check kunt steken. Scheelt weer op de tast zoeken naar de cartridge poort achter de XE computer.\n \nDe opvolger (v2.2) kan ook dienen als RAM uitbreiding (tot 512k RAMBO compatible), kan worden geflasht met nieuwe firmware met de Atari zelf. In onze vitrine vind je de oude (onderdelen) en nieuwe versie.",
+				"en": "The design that finished third in the ABBUC Hardware contest 2014 was not much more than a ROM switcher capable of testing RAM and ROM of XL/XE hardware (with exception of the 1200XL and XEGS).\n \nThe design is quite clever as it can function as cartridge extension on XE models, allowing you to insert cartridges vertical.\n \nThe successor to the version from the ABBUC competition also serves as memory expansion (up to 512k RAMBO compatible) and can now be flashed on the Atari."
+			}
+		},
+		{
+			"id": "142",
+			"time": "30",
+			"name": "Turbo Freezer",
+			"platform": "8-bit (XL/XE)",
+			"released": "1987",
+			"author": "Bernhard Engl",
+			"players": "-",
+			"controller": "Keyboard",
+			"extras": "RAM Expansion, Cartridge emulation and more!",
+			"images": [
+				{ "value": "box.freezer2011.jpg" },
+				{ "value": "box.freezer2011_rev2016.jpg" },
+				{ "value": "pcb.freezer2011.jpg" },
+				{ "value": "pcb.freezer2011_rev2016.jpg" },
+				{ "value": "pcb.freezer2011_rev2016_2.jpg" }
+			],
+			"description": {
+				"nl": "De laatste bij ons bekende batch werd geproduceerd in 2016, maar het oorspronkelijke ontwerp van de duitser Bernhard Engl stamt uit 1987.\n \nBernhard heeft zijn projecten in 2004 overgedragen aan ABBUC. Een groep ABBUC leden is aan de slag gegaan en heeft de 2005 revisie geproduceerd, waarbij de Turbo-Freezer functionaliteit flink is uitgebreid.\n \nIn 2011 is de Turbo Freezer nogmaals aangepast door de ABBUC leden, mede door de grote vraag naar het product en het schaarser/duurder worden van de in 2005 gebruikte componenten.\n \nHet idee van een Freezer is dat het je in staat stelt de executie van de CPU te stoppen, zodat je met een monitor geheugen adressen kan bekijken/aanpassen, of een dump kunt maken van de huidige staat van de machine, die je later kunt laden zodat je verder kunt gaan waar je was gebleven. Een nuttig hulpmiddel bij het \u2018kraken\u2019 van software, het debuggen van software, of om eens lekker te vals te spelen door jezelf extra levens te geven, \u2018collision detection\u2019 uit te zetten, etc.",
+				"en": "As far as we know, the last batch of the Turbo-Freezer was produced in 2016.\n \nAll rights from its designer Bernhard Engl were transferred to the ABBUC in 2004. A couple of ABBUC members created a new revision (2005) with a lot more functionality.\n \nIn 2011 another overhaul was performed, due to scarcity of components used in the 2005 edition.\n \nThe idea of a Freezer is that it enables you to stop CPU execution and dump memory or adjust registers. It allows you load/save the machine state and can be a useful tool to debug or crack software. Or you could cheat at games by updating the number of lives, or disable collision detection altogether."
+			}
+		},
+		{
+			"id": "143",
+			"time": "30",
+			"name": "RAM 320/576XE",
+			"platform": "8-bit (XE)",
+			"released": "2014",
+			"author": "Ctirad",
+			"players": "-",
+			"controller": "-",
+			"extras": "Covox",
+			"images": [
+				{ "value": "box.ram320xe.jpg" },
+				{ "value": "box.ram320xe2.jpg" },
+				{ "value": "inuse.ram320xe.jpg" },
+				{ "value": "inuse.ram320xe2.jpg" }
+			],
+			"description": {
+				"nl": "De RAM 320XE/576 is een plug & play geheugen uitbreiding voor de Atari 8bit XE reeks (met uitzondering van de XEGS). Met als enige voorwaarde dat de machine is voorzien van een ECI poort, iets dat op enkele 65XE modellen na, meestal het geval is.\n \nHet voordeel van deze geheugenuitbreiding is dat je niet hoeft te solderen. Sterker nog, je hoeft niet eens te schroeven.\n \nHet kastje om de printplaat rust netjes op de ondergrond achter de XE en je kunt net als bij de SYS-Check II, je cartridge verticaal insteken.\n \nDe uitgebreide versie van deze geheugen uitbreiding heeft ook nog een COVOX audio DAC aan boord. Deze is te gebruiken vanuit de Atari op adres $D280.",
+				"en": "The RAM 320XE/576 is a plug & play memory expansion for the Atari 8-bit XE range of computers. The only requirement is the machine needs to have an ECI port (exceptions are the XEGS and some 65XE models).\n \nA big advantage of this mod is that there is no need for soldering, better yet, there is no need for a screwdriver either!\n \nThe box is designed so that it rests on the same underground as the machine and allows you to insert cartridges vertically.\n \nThere is also an optional COVOX audio DAC onboard."
+			}
+		},
+		{
+			"id": "144",
+			"time": "30",
+			"name": "Antonia",
+			"platform": "8-bit (XL/XE)",
+			"released": "21-2-2016",
+			"author": "Simius",
+			"players": "-",
+			"controller": "Keyboard",
+			"extras": "512kB OS/BASIC flash RAM, W65C816 CPU",
+			"images": [
+				{ "value": "pcb.antonia.jpg" },
+				{ "value": "pcb.antonia2.jpg" },
+				{ "value": "pcb.antonia3.jpg" },
+				{ "value": "ss.antonia.jpg" },
+				{ "value": "ss.antonia2.jpg" }
+			],
+			"description": {
+				"nl": "Het project 'Antonia' is meer dan een 4MB geheugen uitbreiding voor de Atari XL/XE computers. Voor $60 heb je ook een snellere CPU (de W65C816, geklokt op 1.77MHz), 512 kB flash ROM voor 8 combinaties OS ROM + BASIC ROM en een 7bit configuratie register.\n \nHet vervangen van de 6502 door de W65C816 heeft als gevolg dat bepaalde software niet meer werkt. Dit is met name het geval bij software die gebruikt maakt van de zogeheten 'illegal opcodes' van de 6502CPU. Daarmee beperkt het probleem zich over het algemeen tot een aantal demo's en een handvol gewone software.",
+				"en": "The 'Antonia' project is more than just a 4MB memory expansion for the Atari XL/XE computers.\n \nAt $60 you will also receive a faster CPU (the W65C816, clocked at 1.77MHz), 512 kB flash ROM for 8 combinations of OS ROM + BASIC ROM and a 7bit configuration register.\n \nBy replacing the CPU you loose compatibilty with software that makes use of the so called 'illegal opcodes', but as far as we could tell that's some demo's and a handful of regular software."
+			}
+		},
+		{
+			"id": "145",
+			"time": "30",
+			"name": "Ultimate 1MB",
+			"platform": "8-bit (XL/XE)",
+			"released": "2011",
+			"author": "Candle / Lotharek",
+			"players": "-",
+			"controller": "-",
+			"extras": "SpartaDOS X, RTC",
+			"images": [
+				{ "value": "pcb.ultimate1mb.jpg" },
+				{ "value": "pcb.ultimate1mb2.jpg" },
+				{ "value": "pcb.ultimate1mb3.jpg" },
+				{ "value": "ss.ultimate1mb.png" },
+				{ "value": "ss.ultimate1mb2.png" },
+				{ "value": "ss.ultimate1mb3.png" },
+				{ "value": "ss.ultimate1mb4.png" },
+				{ "value": "ss.ultimate1mb5.png" }
+			],
+			"description": {
+				"nl": "De Poolse candle wilde een Atari 8bit geheugenuitbreiding die zo min mogelijk soldeerwerk vergt en in alle modellen (vanaf de 1200XL) zou werken. Het resultaat is de defacto standaard geheugenuitbreiding voor de atari 8bit geworden.\n \nDe geheugenuitbreiding heeft nog wat andere opties die ervoor hebben gezorgd dat dit de meest gebruikte is geworden:\n - Flashbaar SpartaDOS X slot (met 320kB ruimte)\n - Real Time Clock\n - 4 slots voor OS ROM in flash\n - Hardware schrijfbeveiliging voor het flash geheugen\n - 4 modus operandi voor de RAM uitbreiding (UIT, 320k RAMBO, 578k Compy Shop, 1088k RAMBO)\n - Flashbaar BASIC en GAME slot\n - Configureerbaar vanuit een BIOS achtige omgeving\n - Flashen vindt plaats in de Atari.\n \nAls je de SIDE2 cartridge aan het pakket toevoegt, kun je deze gebruiken als Harddisk. Geen gerotzooi met floppies, te weinig opslagcapaciteit is verleden tijd.",
+				"en": "A Polish Atari user named Candle wanted an 8-bit memory expansion that required little soldering and works an all models from the 1200XL onwards. This resulted in the defacto standard memory expansion for Atari 8bit computers: The Ultimate 1MB.\n \nThe expansion provides some additional features that made this the goto expansion:\n - Flashable SpartaDOS X slot (320kB space)\n - Real Time Clock\n - 4 slots for OS ROM in flash\n - Hardware write protected flash ram\n - 4 modus operandi for the RAM expansion (Off, 320k RAMBO, 578k Compy Shop, 1088k RAMBO)\n - Flashable BASIC and GAME slot\n - Configurable from a BIOS like environment\n - Flashable from the Atari console.\n \nWhen used in conjuction with the SIDE2 cartridge, the later can be used as harddisk: No more messing around with floppies, lack of space has become a thing of the past."
+			}
+		},
+		{
+			"id": "146",
+			"time": "30",
+			"name": "Simple Stereo",
+			"platform": "8-bit",
+			"released": "198?",
+			"author": "Lotharek",
+			"players": "-",
+			"controller": "Keyboard/Joystick",
+			"extras": "USwitch",
+			"images": [
+				{ "value": "pcb.simplestereo.jpg" },
+				{ "value": "pcb.simplestereo2.jpg" },
+				{ "value": "pkg.simplestereo.jpg" }
+			],
+			"description": {
+				"nl": "We hebben ervoor gekozen om de simple stereo versie van Lotharek uit te lichten, maar er bestaan al stereo mods voor de atari 8bit reeks sinds de jaren 80. Chuck Steinman van de firmware DataQue wordt genoemd als de eerste die met het idee kwam. Een ding is zeker: Hij was niet de laatste.\n \nHet simple stereo bordje wat je bij Lotharek besteld bevat geen 2e POKEY chip. Deze moet je zelf los aanschaffen, of nog ergens hebben liggen.\n \nDe mod is eenvoudig te installeren, maar hou er rekening mee dat je de behuizing van de Atari moet aanpassen om de RCA connectoren bereikbaar te maken en eventueel een gaatje nodig hebt voor de schakelaar om de mod aan/uit te zetten.\n \nMaar je kunt dan wel genieten van echt stereo geluid als de spel/demo makers die optie hebben meegenomen in hun code.",
+				"en": "We decided to bring the simple stereo by Lotharek, but there have been stereo enhancements around since the 80s. Chuck Steinman of DataQueue fame was the first to come up with the idea as the story goes. He definitely was not the last.\n \nThe simple stereo board by Lotharek does not come with a second POKEY chip, you need to order one seperately or happen to have one lying around.\n \nInstallation is relatively simple, but bear in mind that you need to modify the Atari casing (RCA jacks and optional switch) and you have to solder a couple of wires."
+			}
+		},
+		{
+			"id": "147",
+			"time": "30",
+			"name": "Multijoy8",
+			"platform": "8-bit",
+			"released": "198?",
+			"author": "Radek Sterba / IvoP",
+			"players": "-",
+			"controller": "Joystick",
+			"extras": "-",
+			"images": [
+				{ "value": "box.multijoy8.jpg" },
+				{ "value": "box.multijoy82.jpg" },
+				{ "value": "pcb.multijoy8.jpg" },
+				{ "value": "pcb.multijoy82.jpg" },
+				{ "value": "pcb.multijoy83.jpg" },
+				{ "value": "pcb.multijoy84.jpg" }
+			],
+			"description": {
+				"nl": "Volgens de website van Radek (aka RASTER) stamt de MultiJoy uit 1998. Het concept biedt ruimte voor maximaal 16 joysticks, aangesloten op een Atari computer met 2 joystick poorten.\n \nDe MultiJoy die wij vandaag gebruiken voor de MultiJoy spel competitie heeft als basis het design uit 2007 van dezelfde RASTER en is door IvoP omgezet in een PCB ontwerp in het gerber formaat.\n \nOmdat de MultiJoy al wat langer bestaat zijn er verschillende spellen voor gemaakt en bestaande spellen gepatcht. Niet al deze spellen ondersteunen 8 of zelfs 16 spelers, maar ook met 4 spelers is er veel plezier te beleven.",
+				"en": "According to Radek's website the multijoy stems from 1998. The concept should work with up to 16 joysticks connected to a single Atari console.\n \nThe multijoy we brought along is based on the 2007 design by the aforementioned Radek (aka RASTER). A member of the Atari Invasion created a gerber file from it and had some boards made.\n \nAs the multijoy has been out in the wild for quite some time, the games that can make use of it our available in large amounts. As are patched versions of existing games."
+			}
+		},
+		{
+			"id": "148",
+			"time": "30",
+			"name": "SiDE2",
+			"platform": "8-bit (XL/XE)",
+			"released": "2011",
+			"author": "Candle / Lotharek",
+			"players": "-",
+			"controller": "-",
+			"extras": "SpartaDOS X, RTC",
+			"images": [
+				{ "value": "cart.side2.jpg" },
+				{ "value": "cart.side2_2.jpg" },
+				{ "value": "pcb.side2.jpg" }
+			],
+			"description": {
+				"nl": "De SiDE interface, ontworpen door Sebastian Bartkowicz, Voorziet in harddisk functionaliteit  - en veel meer - voor de Atari 8bit computer, in de vorm van een cartridge.\n \nDeze cartridge heeft een speciale versie van het SpartaDOS X disk besturingssysteem aan boord, een real-time clock, Compact Flash slot, selecteerbare modi (\u201cSIDE Loader\u201d en SpartaDOS X) en 512KB Flash ROM (half gevuld met SDX en half als een ge\u00ebmuleerde \u201cpiggyback\u201d cartridge).\n \nDe ROM firmware ontwikkelingen worden de laatste tijd verzorgd door de engelsman Jonathan Halliday en zijn dan ook van zijn website te downloaden.",
+				"en": "The SiDE interface by Sebastian Bartkowicz provides a harddisk - and much more - to the Atari 8-bit computer by means of a cartridge.\n \nThe cartridge has a special version of the SpartaDOS X and a real time clock on board."
+			}
+		},
+		{
+			"id": "149",
+			"time": "30",
+			"name": "MyIDE",
+			"platform": "8-bit",
+			"released": "1999",
+			"author": "S. Schouten",
+			"players": "-",
+			"controller": "Keyboard/Joystick",
+			"extras": "Harddisk, 512kB SRAM, 512kB Flash",
+			"images": [
+				{ "value": "cart.myide-old.jpg" },
+				{ "value": "cart.myideii.jpg" },
+				{ "value": "cart.myideii2.jpg" },
+				{ "value": "cart.myideii3.jpg" },
+				{ "value": "pcb.myide-old.jpg" },
+				{ "value": "ss.myideii.png" },
+				{ "value": "ss.myideii2.png" }
+			],
+			"description": {
+				"nl": "De MyIDE vond zijn oorsprong in het brein van Sijmen Schouten in 1999 (volgens zijn eigen website). Met de MyIDE interface was het mogelijk om een IDE harddisk aan de Atari 8bit computers te koppelen. Wegens tijdgebrek heeft Sijmen de verkooprechten in handen van Steve Tucker van Atarimax gegeven.\n \nEr zijn twee uitvoeringen van de MyIDE interface: Een 'Inbouw' en 'Cartridge' variant, want iedereen heeft zo zijn eigen voorkeuren, zo ook voor de wijze waarop zij 'Mass Storage' op hun Atari computer willen verkrijgen.\n \nDe nieuwe versies van de cartridge gebruiken compactflash om executables, floppy's en harddisk images van te lezen. Je kunt FAT32 geformatteerde kaartjes gebruiken, of FAT32 in combinatie met een APT partitie. Hoe dan ook, je kunt je hele collectie waarschijnlijk wel kwijt op een 4GB kaartje.\n \nMocht je software ontwikkelen voor de Atari 8bit computers, je kunt vanuit je software gebruik maken van de 512kB SRAM die de MyIDE cartridge beschikbaar stelt.\n \nDe cartridge heeft ook 512kB flash memory die je vanuit de atari kunt flashen met bijvoorbeeld eigen cartridge dumps. Met de Atarimax 'Maxflash Studio' cre\u00eber je op een windows PC een ATR floppy image die je kunt gebruiken om de cartridge te flashen.\n \nSijmen ontwikkelt nog steeds verder aan zijn MyBIOS, dat nauw samenwerkt met deze cartridge. Zo kun je, zonder de machine uit en aan te hoeven zetten, floppies wisselen of floppy images aan drive letters toewijzen. En nog veel meer.\n \nIn het kader van 'brew at home': de instructies om de MyIDE zelf te bouwen zijn nog steeds te vinden op de pagina van Mr. Atari.",
+				"en": "The MyIDE cartridge originated in the brain of Sijmen Schouten in 1999. It allowed for a harddisk to be connected directly to the Atari 8bit computer. Due to lack of time, he licensed the design to Steve Tucker of AtariMax."
+			}
+		},
+		{
+			"id": "151",
+			"time": "30",
+			"name": "CosmosEx",
+			"platform": "ST",
+			"released": "2014",
+			"author": "Jookie",
+			"players": "-",
+			"controller": "Keyboard/Mouse",
+			"extras": "USB HID, USB HD, Network HD, much more",
+			"images": [
+				{ "value": "box.cosmosex.jpg" },
+				{ "value": "box.cosmosex2.jpg" },
+				{ "value": "box.cosmosex3.jpg" },
+				{ "value": "box.cosmosex4.jpg" },
+				{ "value": "logo.cosmosex.png" },
+				{ "value": "pcb.cosmosex.jpg" }
+			],
+			"description": {
+				"nl": "Jookie, de ontwikkelaar van de ComosEx beschrijft zijn creatie als volgt:\nCosmosEx is a device for Atari ST computers which replaces multiple peripherals in single box. Your Atari peripheral cosmos is now expanding!\u201d\n \nDe CosmosEx leunt voor een heleboel functies op de Raspberry Pi, maar functioneert ook prima zonder de Pi als bijvoorbeeld harddisk.\n \nHet is een apparaat waar je moeilijk aan komt. Iedere keer dat er een run wordt aangekondigd is deze in no-time uitverkocht.",
+				"en": "Jookie, the creator of the CosmosEx describes his own creation as:\nCosmosEx is a device for Atari ST computers which replaces multiple peripherals in single box. Your Atari peripheral cosmos is now expanding!\n"
+			}
+		},
+		{
+			"id": "152",
+			"time": "30",
+			"name": "GoTek w/ HxC firmware",
+			"platform": "ST",
+			"released": "2006",
+			"author": "Homebrew",
+			"players": "-",
+			"controller": "-",
+			"extras": "-",
+			"images": [
+				{ "value": "box.gotek.jpg" },
+				{ "value": "pcb.gotek.jpg" },
+				{ "value": "ss.gotek.jpg" },
+				{ "value": "ss.gotek2.jpg" },
+				{ "value": "ss.gotek3.jpg" }
+			],
+			"description": {
+				"nl": "Sinds 2006 biedt HxC2001 een USB Floppy emulator aan voor een grote hoeveelheid apparaten, waaronder Atari ST.\n \nHet goedkope alternatief van GoTek met standaard firmware ondersteunt alleen MS-DOS floppy images van 720kB. In 2014 beschrijft de duitse Christian Keck een manier hoe hij de goedkope GoTek USB Floppy drive heeft weten te voorzien van de HxC firmware en opent daarmee de deur naar een goedkoop en duurzaam alternatief voor ST floppies.",
+				"en": "Since 2006 HxC2001 offers an USB Floppy emulator for a wide variety of devices, including the Atari ST."
+			}
+		}
+	],
+	"software": [
+		{
+			"id": "211",
+			"time": "30",
+			"name": "Defend your castle",
+			"platform": "2600",
+			"released": "24-12-2016",
+			"author": "S. Schouten",
+			"players": "2",
+			"controller": "Joystick",
+			"extras": "-",
+			"images": [
+				{ "value": "box.2600-DegendYourCastle.jpg" },
+				{ "value": "label.2600-DefendYouCastle.jpg" },
+				{ "value": "ss.2600-DefendYourCastle.png" },
+				{ "value": "ss.2600-DefendYourCastle2.png" }
+			],
+			"description": {
+				"nl": "Op kerstavond 2016 bracht Sijmen zijn derde game uit.\n \nNa twee releases voor de Atari 8bit, was het dit keer de beurt aan de Atari 2600/VCS.\n \nMocht je het niet herkend hebben, het kasteel dat je in de 'boxart' ziet is Liverpool Castle.",
+				"en": "It was Christmas eve 2016 when Sijmen released his third game.\n \nAfter two releases for the 8-bit Atari's, it was time for a 2600/VCS release.\n \nIn case you did not recognize it, the castle in the boxart image is Liverpool Castle."
+			}
+		},
+		{
+			"id": "212",
+			"time": "30",
+			"name": "2003 Holiday Cart",
+			"platform": "VCS/2600",
+			"released": "2003",
+			"author": "Andrew Davie, Dave Exton",
+			"players": "0 (Demo)",
+			"controller": "Joystick",
+			"extras": "-",
+			"images": [
+				{ "value": "label.2600-2003HolidayCart.jpg" },
+				{ "value": "ss.2600-2003HolidayCart.png" }
+			],
+			"description": {
+				"nl": "De '2003 AtariAge Holiday Cart' is ontwikkeld door Andrew Davie.\n \nJe kreeg een exemplaar van de cartridge bij besteding van  meer dan $50 in de Atari Age shop tijdens de feestdagen van 2003.\n \nDe cartridge bevat een demo die bestaat uit een plaatje dat telkens horizontaal gespiegeld wordt.",
+				"en": ""
+			}
+		},
+		{
+			"id": "213",
+			"time": "30",
+			"name": "Boulder Dash",
+			"platform": "VCS/2600",
+			"released": "2012",
+			"author": "Andrew Davie, Thomas Jentzsch",
+			"players": "1-2",
+			"controller": "Joystick",
+			"extras": "AtariVox Enhanced",
+			"images": [
+				{ "value": "box.2600-BoulderDash.jpg" },
+				{ "value": "label.2600-BoulderDash.jpg" },
+				{ "value": "man.2600-BooulderDash.jpg" },
+				{ "value": "ss.2600-BooulderDash.png" },
+				{ "value": "ss.2600-BooulderDash2.png" },
+				{ "value": "ss.2600-BooulderDash3.png" },
+				{ "value": "xtra.2600-BoulderDash.jpg" }
+			],
+			"description": {
+				"nl": "Dit spel behoeft bijna geen introductie, maar voor het geval iemand niet weet wat Boulder Dash is, doen we het toch... Overigens begrepen we dat de voorzitter van de HCC Commodore een groot fan is :)\n \nBoulder Dash, geschreven door Peter Liepa, werd in 1984 uitgebracht door 'First Star Software' op de C64 en Atari Homecomputers. In Boulder Dash speel je met het character 'Rockford' en is het de bedoeling om zoveel mogelijk diamanten te verzamelen (minstens genoeg om de uitgang van het level te openen) binnen de gestelde tijd.\n \nDe in 2012 uitgebrachte Atari 2600 port bevat 16 grotten waarbij je 5 moeilijkheidsgraden kunt selecteren. Deze port is in beperkte oplage (250 stuks) uitgebracht en was voorzien van een handleiding en diamanten!\n \nEr is een demoversie van het spel verkrijgbaar als ROM, zodat je het spel kunt uitproberen in een emulator of op bijvoorbeeld de Harmony Multicart.",
+				"en": "This game probably does not need an introduction, but just in case...\n \nBoulder Dash, written by Peter Liepa, was released in 1984 by 'First Star Software' on C64 and Atari Homecomputers. You are 'Rockford' and you are tasked with collecting as many diamonds as possible (at least enough to open the exit) within the time limit.\n \nThe 2012 VCS port has 16 caves and 5 difficulty levels. The limited edition (250) was released with a manual and some diamonds!\n \nThe demo version that is available as ROM can be played in either an emulator (Stella), or with the Harmony cartridge."
+			}
+		},
+		{
+			"id": "214",
+			"time": "30",
+			"name": "Donkey Kong VCS",
+			"platform": "2600",
+			"released": "Work in Progress",
+			"author": "Joe Musashi",
+			"players": "1-2",
+			"controller": "Joystick",
+			"extras": "-",
+			"images": [
+				{ "value": "ss.2600-DKVCS.png" },
+				{ "value": "ss.2600-DKVCS2.png" },
+				{ "value": "ss.2600-DKVCS3.png" },
+				{ "value": "ss.2600-DKVCS4.png" },
+				{ "value": "ss.2600-DKVCS5.png" },
+				{ "value": "ss.2600-DKVCS6.png" },
+				{ "value": "ss.2600-DKVCS7.png" },
+				{ "value": "ss.2600-DKVCS8.png" }
+			],
+			"description": {
+				"nl": "Elke generatie gamers kent of herkent Donkey Kong. Het feit dat er nog steeds spellen worden uitgebracht met Donkey Kong in de hoofdrol zegt wat ons betreft genoeg.\n \nOp 14-12-2012 postte Joe Musashi in het 'Homebrew Discussion' forum van AtariAge een berichtje dat hij onder de indruk was van de Donkey Kong intro demo en dat hij een poging zou wagen om een op de arcade versie lijkende uitvoering van Donkey Kong voor de VCS te ontwikkelen met de technieken die in de demo waren gebruikt. In de volgende posts (in totaal inmiddels 32 pagina's) kun je zijn ontwikkelingen volgen.\n \nWij zijn onder de indruk van het resultaat van Joe's werk in de afgelopen 4 jaar. Zijn D.K. VCS ziet er uit als de versie die wij kennen van de arcade kast en speelt ook nog eens prettig. Alle vier de arcade levels vind je terug en ook de tussenschermen/animaties zijn in de 32k ROM gepropt en zelfs het geluid is Joe niet vergeten",
+				"en": "Every generation of gamers knows or at least recognizes Donkey Kong.\n \nOn 14 december 2012 Joe Musashi posted a message in the Atari Age 'Homebrew Discussion' forum that he was so impressed by the Donkey Kong intro demo, he wanted to attempt to create an arcade like game using the methods used in the demo. In the next posts (there were 32 pages(!) last we checked) he logged his progress.\n \nWe are very impressed by Joe's work in the past 4 years. His D.K. VCS looks and feels like the version we remember from the arcade. All 4 levels are present, including the intermission screens, all crammed into a 32k ROM and even the sound is present!"
+			}
+		},
+		{
+			"id": "221",
+			"time": "30",
+			"name": "KC Munchkin",
+			"platform": "7800",
+			"released": "6-4-2014",
+			"author": "Robert DeCrescenzo",
+			"players": "1",
+			"controller": "Joystick",
+			"extras": "-",
+			"images": [
+				{ "value": "label.7800-KCMunchkin.jpg" },
+				{ "value": "manual.7800-KCMunchkin.jpg" },
+				{ "value": "ss.7800-KCMunchkin.jpg" },
+				{ "value": "ss.7800-KCMunchkin2.jpg" },
+				{ "value": "ss.7800-KCMunchkin3.jpg" },
+				{ "value": "ss.7800-KCMunchkin4.jpg" }
+			],
+			"description": {
+				"nl": "De 7800 port van K.C. Munchkin werd gestart door Atari Age gebruiker Jaynz in januari 2014 en is uiteindelijk afgerond en uitgebracht door Robert DeCrescenzo.\n \nDeze laatste ontwikkelaar is verantwoordelijk voor meerdere 7800 ports, die stuk voor stuk van uitstekende kwaliteit zijn.\n \nK.C. Munchkin was oorspronkelijk een Odyssey 2 (Philips Videopac) spel waarin je met \u2018Munchkin\u2019 in het doolhof alle twaalf \u2018Munchies\u2019 moet bemachtigen zonder geraakt te worden door de \u2018Munchers\u2019.\n \nHet spel werd voor de Odyssey 2 uitgebracht een jaar voordat Atari in gelegenheid was om Pac-Man uit te brengen voor de VCS/2600. Met de exclusieve rechten op de console versie van Pac-Man op zak, wist Atari een aangespannen rechtszaak tegen Philips uiteindelijk te winnen, waarna Philips gedwongen werd de verkoop van K.C. Munchkin te staken.",
+				"en": "Porting K.C. Munchkin to the 7800 was first taken up by Atari Age user Jaynz in january 2014. The port was eventually completed and released by Robert DeCrescenzo.\n \nK.C. Munchkin is a controversial title for Atari, as the game was released for the Odyssey 2 and Atari successfully sued Philips over its release, claiming it was too much like pac-man, for which Atari had the exclusive rights."
+			}
+		},
+		{
+			"id": "222",
+			"time": "30",
+			"name": "Astro Fighter",
+			"platform": "7800",
+			"released": "26-07-2015",
+			"author": "Robert DeCrescenzo",
+			"players": "1-2",
+			"controller": "Joystick",
+			"extras": "-",
+			"images": [
+				{ "value": "label.7800-AstroFighter.jpg" },
+				{ "value": "ss.7800-AstroFighter.jpg" },
+				{ "value": "ss.7800-AstroFighter2.jpg" },
+				{ "value": "ss.7800-AstroFighter3.jpg" },
+				{ "value": "ss.7800-AstroFighter4.jpg" }
+			],
+			"description": {
+				"nl": "Astro Fighter is een 2D space shooter. Het arcade spel uit 1980 is door Robert DeCrescenzo geport naar de Atari 7800.\n \nJe speelt dit ruimteavontuur om beurten. Tijdens de meteorenregen moet je vier aanvallen van vijandelijke schepen trotseren om uiteindelijk de 'master' te bereiken en te verslaan.",
+				"en": "Astro Fighter is a 2D space shooter. The arcade game from 1980 was ported to the 7800 by Robert DeCrescenzo.\n \nThis is a turn based space adventure: During the meteor shower you have to fight your way through four waves of enemy ships in order to reach and hopefully defeat 'the master'."
+			}
+		},
+		{
+			"id": "231",
+			"time": "30",
+			"name": "Yastuna - volume 1",
+			"platform": "Lynx",
+			"released": "13-06-2008",
+			"author": "Fadest",
+			"players": "1",
+			"controller": "-",
+			"extras": "Bonus games",
+			"images": [
+				{ "value": "box.yastuna1.jpg" },
+				{ "value": "pcb.yastuna1.jpg" },
+				{ "value": "ss.yastuna1.jpg" },
+				{ "value": "ss.yastuna2.jpg" },
+				{ "value": "ss.yastuna3.jpg" },
+				{ "value": "ss.yastuna4.jpg" }
+			],
+			"description": {
+				"nl": "Yastuna volume 1 is een compilatie van een aantal spellen voor de Lynx.\n \nJe kunt sowieso 6 spellen vanuit het hoofdmenu spelen, maar er zijn ook nog een aantal spellen verborgen die je zelf vrij moet spelen.\n \nHet spel is als ROM beschikbaar voor download en te gebruiken op je flash -, multi cartridge of Lynx emulator.\n \nDe versie die wij mee hebben heeft een nooit uitgebrachte Nederlandse versie van ‘Merlain’s Quest’.",
+				"en": ""
+			}
+		},
+		{
+			"id": "241",
+			"time": "30",
+			"name": "Laura",
+			"platform": "8-bit (64k)",
+			"released": "Silly Venture 2016",
+			"author": "ArSoft",
+			"players": "1",
+			"controller": "Joystick",
+			"extras": "Stereo, Hi Score Cafe",
+			"images": [
+				{ "value": "poster.8bit-Laura.jpg" },
+				{ "value": "ss.8bit-Laura1.png" },
+				{ "value": "ss.8bit-Laura2.png" },
+				{ "value": "ss.8bit-Laura3.png" },
+				{ "value": "ss.8bit-Laura4.png" },
+				{ "value": "ss.8bit-Laura5.png" },
+				{ "value": "ss.8bit-Laura6.png" }
+			],
+			"description": {
+				"nl": "Laura is een nieuw spel (2016) voor de Atari 8bit reeks. De cartridge versie heeft genoeg aan 64kB RAM, maar de disk/multicart editie heeft echt 128kB RAM nodig.\n \nHet spel werd uitgebracht tijdens Silly Venture 2k16, het grootste (europese) Atari evenement gehouden in Polen. Laura ondersteunt 'Hi Score Cafe', een manier om je high score te delen met anderen.",
+				"en": "Laura is a new game (2016) for the Atari 8-bit consoles. The cartridge version requires 64kB of RAM, the disk version requires 128kB.\n \nThe game was released at Silly Venture 2k16, the biggest Atari event in Europe (Poland). Laura even supports 'Hi Score Cafe', a method to share your score with others."
+			}
+		},
+		{
+			"id": "242",
+			"time": "30",
+			"name": "Lost in space",
+			"platform": "8-bit (16k)",
+			"released": "24-12-2015",
+			"author": "S. Schouten",
+			"players": "1-4",
+			"controller": "Paddle/Custom",
+			"extras": "-",
+			"images": [
+				{ "value": "box.8bit-LostInSpace.jpg" },
+				{ "value": "ss.8bit-LostInSpace.png" }
+			],
+			"description": {
+				"nl": "Het tweede spel dat door Sijmen is ontwikkeld, is een port van het Odyssey 2 spel Space Rendezvouz. De Odyssey 2 is in Nederland bekend als de Philips Videopac.\n \nOok dit spel werd officiel uitgebracht tijdens kerstavond 2015. Inmiddels is er een XEGS cart versie van beschikbaar.\n \nTot slot, er zijn voor het spel zelfs custom controllers. Deze hebben dezelfde kleur als de spelers op het scherm, dus nooit meer zoeken welke paddle er ook alweer bij welke speler hoort.",
+				"en": "The second game by Sijmen is a port of the Odyssey 2 game called Space Rendezvous.\n \nThis game was also officially released during christmas eve (2015). An XEGS cart version is now available.\n \nThere were custom controllers created by an ABBUC member, in the same colors as the players on screen, so you will never have to guess which player you control."
+			}
+		},
+		{
+			"id": "243",
+			"time": "30",
+			"name": "Fairlight",
+			"platform": "8-bit (64k)",
+			"released": "25-12-2016",
+			"author": "Mariusz",
+			"players": "1",
+			"controller": "Joystick/Keyboard",
+			"extras": "-",
+			"images": [
+				{ "value": "ss.8bit-Fairlight1.png" },
+				{ "value": "ss.8bit-Fairlight2.png" },
+				{ "value": "ss.8bit-Fairlight3.png" },
+				{ "value": "ss.8bit-Fairlight4.png" },
+				{ "value": "ss.8bit-Fairlight5.png" },
+				{ "value": "ss.8bit-Fairlight6.png" },
+				{ "value": "ss.8bit-Fairlight7.png" }
+			],
+			"description": {
+				"nl": "Volgens de bezoekers van World of Spectrum is dit het beste spel voor de ZX Spectrum. Het spel is geschreven door Bo Jangeborg.\n \nDe Atari 8it versie is een directe port van de C64 versie en is uitgevoerd door:\n Code: Mariusz\n Screens: Jose Pereira\n Sound FX: Wieczor\n \nFairlight voor de Atari 8bit is uitgebracht tijdens de kerst van 2016.",
+				"en": "According to the visitors of 'World of Spectrum' this game, written by Bo Jangeborg, is the best game for the ZX Spectrum.\n \nThe Atari 8-bit version is a direct port of the C64 version and was executed by:\nCode: Mariusz\nScreens: Jose Pereira\nSound FX: Wieczor\n \nFairlight for Atari 8-bit was release at christmas 2016."
+			}
+		},
+		{
+			"id": "251",
+			"time": "30",
+			"name": "Rebooteroids",
+			"platform": "Jaguar",
+			"released": "14-11-2016",
+			"author": "Reboot",
+			"players": "1-2",
+			"controller": "Gamepad/Rotary",
+			"extras": "-",
+			"images": [
+				{ "value": "box.jag-Rebooteroids.jpg" },
+				{ "value": "cart.jag-Rebooteroids.jpg" },
+				{ "value": "ss.jag-Rebooteroids1.jpg" },
+				{ "value": "ss.jag-Rebooteroids2.jpg" },
+				{ "value": "ss.jag-Rebooteroids3.jpg" }
+			],
+			"description": {
+				"nl": "Zoals met zovele homebrew games, heeft het even geduurd voordat dit spel werd uitgebracht. In het geval van Rebooteroids duurde het ontwikkeltraject zes jaar.\n \nHet verhaal: Het 'hyperspace test schip' EWS werkt niet goed meer. Zonder navigatie data bevind je je in een zee van dodelijke, draaiende objecten. Wapens werken nog en met de hyper drive kun je nog korte sprongen maken. Maar verder moet je het van je reactievermogen hebben, wil je een kans maken te overleven.",
+				"en": ""
+			}
+		}
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Turbo Freezer",
+    "platform": "8-bit (XL/XE)",
+    "released": "1987",
+    "author": "Bernhard Engl",
+    "players": "-",
+    "controller": "Keyboard",
+    "extras": "RAM Expansion, Cartridge emulation and more!",
+    "description": {
+        "en": "As far as we know, the last batch of the Turbo-Freezer was produced in 2016.\n \nAll rights from its designer Bernhard Engl were transferred to the ABBUC in 2004. A couple of ABBUC members created a new revision (2005) with a lot more functionality.\n \nIn 2011 another overhaul was performed, due to scarcity of components used in the 2005 edition.\n \nThe idea of a Freezer is that it enables you to stop CPU execution and dump memory or adjust registers. It allows you load/save the machine state and can be a useful tool to debug or crack software. Or you could cheat at games by updating the number of lives, or disable collision detection altogether."
+    }
+}

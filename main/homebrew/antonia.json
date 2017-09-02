@@ -1,0 +1,12 @@
+{
+    "name": "Antonia",
+    "platform": "8-bit (XL/XE)",
+    "released": "21-2-2016",
+    "author": "Simius",
+    "players": "-",
+    "controller": "Keyboard",
+    "extras": "512kB OS/BASIC flash RAM, W65C816 CPU",
+    "description": {
+        "en": "The 'Antonia' project is more than just a 4MB memory expansion for the Atari XL/XE computers.\n \nAt $60 you will also receive a faster CPU (the W65C816, clocked at 1.77MHz), 512 kB flash ROM for 8 combinations of OS ROM + BASIC ROM and a 7bit configuration register.\n \nBy replacing the CPU you loose compatibilty with software that makes use of the so called 'illegal opcodes', but as far as we could tell that's some demo's and a handful of regular software."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "GoTek w/ HxC firmware",
+    "platform": "ST",
+    "released": "2006",
+    "author": "Homebrew",
+    "players": "-",
+    "controller": "-",
+    "extras": "-",
+    "description": {
+        "en": "Since 2006 HxC2001 offers an USB Floppy emulator for a wide variety of devices, including the Atari ST."
+    }
+}

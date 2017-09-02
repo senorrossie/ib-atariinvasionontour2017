@@ -1,0 +1,12 @@
+{
+    "name": "Multicart",
+    "platform": "7800",
+    "released": "2016",
+    "author": "jfmateos",
+    "players": "-",
+    "controller": "-",
+    "extras": "(!)Burner needed, 16 128kB slots",
+    "description": {
+        "en": "There are times where you've waited for something too long and gave up hope. That is what happened to the 7800 community, they were waiting for years for a 7800 version of the Harmony cart: the Harmony Encore.\n \nAnd then on april 16th 2016 there appeared a video with a \u2018preliminary version\u2019 of a 7800 multicart! Not much later it even was available to order! Although you require burner hardware to actually use it, if you also collect Vectrex, Lynx or VideoPAC hardware, the burner is actually a good investment.\n \nIt is possible to add a POKEY chip to the cart so you can also run POKEY enhanced games. The cart has room for 16 128k games, so if you burn a 144k game it uses two slots."
+    }
+}

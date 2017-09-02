@@ -1,0 +1,12 @@
+{
+    "name": "Laura",
+    "platform": "8-bit (64k)",
+    "released": "Silly Venture 2016",
+    "author": "ArSoft",
+    "players": "1",
+    "controller": "Joystick",
+    "extras": "Stereo, Hi Score Cafe",
+    "description": {
+        "en": "Laura is a new game (2016) for the Atari 8-bit consoles. The cartridge version requires 64kB of RAM, the disk version requires 128kB.\n \nThe game was released at Silly Venture 2k16, the biggest Atari event in Europe (Poland). Laura even supports 'Hi Score Cafe', a method to share your score with others."
+    }
+}

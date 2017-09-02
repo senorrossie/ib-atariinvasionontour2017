@@ -1,0 +1,12 @@
+{
+    "name": "Harmony Multicart",
+    "platform": "VCS/2600 / 7800",
+    "released": "2009",
+    "author": "Fred Quimby",
+    "players": "-",
+    "controller": "-",
+    "extras": "-",
+    "description": {
+        "en": "Atari 2600/VCS cartridges are plentifull available in the wild, as is homebrew software in most places.\n \nIf you do not have a lot of space to store all your cartridges, or you just are not that much into all those physical things, but still want to play all the games on your console, the Harmony Cartridge is just what you need!\n \nFred Quimby released the Harmony Cartridge in 2009 and is still selling them through http://harmony.atariage.com. Recently the Harmony Encore was released, the biggest change is support for 512k bankswitched carts, so the latest homebrew releases are supported too.\n \nFACT: You can store all official Atari 2600 releases on a 16Mb flash card!"
+    }
+}

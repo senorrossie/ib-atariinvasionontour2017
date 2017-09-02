@@ -1,0 +1,13 @@
+{
+    "id": "1200xl",
+    "name": "Atari 1200XL",
+    "alias": "-",
+    "platform": "8-bit",
+    "released": "03-1983",
+    "dropped": "06-1983",
+    "RAM": "48k",
+    "price": "$899",
+    "description": {
+        "en": "The Atari 1200XL was short lived. Announced in december 1982 and presented during winter CES in january 1983, it shipped in march.\n \nThe machine had a lot of issues and even incomplete features (improved video circuit not connected to monitor jack). Design changes led to non working peripherals (Atari and 3rd party) and OS changes also resulted in incompatible software.\n \nThe press warned Atari of the hefty price tag, by comparison, the 800 it should supersed was sold at less than $700. It is told that people started hoarding the 800 machines, afraid the machine would disappear soon.\n \nThe 1200XL is not released in a PAL version."
+    }
+}
