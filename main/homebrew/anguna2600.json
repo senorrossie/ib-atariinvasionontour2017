@@ -1,0 +1,12 @@
+{
+    "name": "Anguna 2600",
+    "platform": "2600",
+    "released": "28-9-2016",
+    "author": "Nathan Tolbert",
+    "players": "1",
+    "controller": "Joystick",
+    "extras": "AtariVox Enhanced",
+    "description": {
+        "en": "Anguna 2600 is a top-down Zelda-like fantasy action-adventure game by Nathan Tolbert and is sort of a sequel to the original version of Anguna (Gameboy Advance, 2008). Development began in mid-2014.\n \nAs you explore the world, you will uncover many secrets. Use your map for clues and try to explore every room! To view your inventory, status, and world map, switch the Color/BW switch to BW.\n \nAnguna 2600 uses a password system and optionally an AtariVox/SaveKey to save your progress."
+    }
+}
