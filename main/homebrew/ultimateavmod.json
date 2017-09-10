@@ -1,0 +1,12 @@
+{
+    "name": "Ultimate A/V Mod",
+    "platform": "VCS/2600,5200,7800,8-bit",
+    "released": "11-12-2015",
+    "author": "Homebrew",
+    "players": "-",
+    "controller": "-",
+    "extras": "-",
+    "description": {
+        "en": "The video circuits in most Ataris are not sufficiently decoupled from the digital noise in the system. Video power and ground are often shared with very noisy components like DRAM and this causes vertical bars to appear in the picture. Atari actually put components in some XL's to blur the image in an attempt to clear up the lines.\n \nTo solve the problem(s), the UAV:\n 1. Has an on-board regulator to create a clean video power source.\n 2. Has a 3-channel video amplifier designed for 75 ohm loads.\n 3. Has a pixel re-clocking circuit to remove skew and better align the 4 luminance signals into a perfect pixel edge.\n 4. Has a carefully designed chroma-shaping circuit.\n \nThe video output of the modified machine is crisp, even on modern screends. The board comes in a couple of versions, specific to the needs of the Atari you need to fit it in."
+    }
+}

@@ -1,4 +1,15 @@
 {
+	"events": [
+		{
+			"id": "e001",
+			"time": "30",
+			"name": "Atari Events",
+			"description": {
+				"nl": "-",
+				"en": "For Atari enthousiasts in Europe, there are some big and several smaller events to attend.\n \n * Wapniak: Demo party (Poland) [ended]\n * Fujima: Gathering (Germany) [ended]\n * Silly Venture: Demo party (Poland) [8 to 10 December)]\nAnd there are plenty of others. See http://demoparty.net and http://pouet.net for releases."
+			}
+		}
+	],
 	"hardware": [
 		{
 			"id": "111",
@@ -18,6 +29,26 @@
 			"description": {
 				"nl": "De Atari consoles staan niet bekend om de goede kwaliteit van hun video signaal. Er zijn diverse mods die daar iets aan proberen te doen. Mocht het je alleen te doen zijn om de console op een LCD scherm aan te sluiten, dan is een simpele video mod een optie.\n \nIn onze vitrine hebben we de AV mod van 'vintage gaming and more' liggen, net als de OSH Park PCB only versie zonder extra Audio aansluiting en een versie die op een 'perf' bordje is geknutseld. De 2600 Jr's zijn voorzien van deze mod, dus oordeel zelf over de kwaliteit.\n \nDe handleiding van 'vintage gaming and more' beschrijft de installatie procedure voor verschillende uitvoeringen van de 2600 en een procedure voor de 7800. Zie ook ons artikel in het HCC Commodore krantje van vandaag.",
 				"en": "Atari consoles are not known for their video signal quality, quite the opposite. There are several mods that try to address this. In case you only want to be able to connect a console to an LCD screen, a simple video mod will suffice.\n \nWe brought along the video mod from 'vintage gaming and more' as well as a PCB only version available from OSH Park that lacks an additional connection for the audio signal."
+			}
+		},
+		{
+			"id": "001",
+			"time": "30",
+			"name": "Ultimate A/V Mod",
+			"platform": "VCS/2600,5200,7800,8-bit",
+			"released": "11-12-2015",
+			"author": "Homebrew",
+			"players": "-",
+			"controller": "-",
+			"extras": "-",
+			"images": [
+				{ "value": "kit.avmod.jpg" },
+				{ "value": "pcb.avmod.jpg" },
+				{ "value": "pcb.avmod_osh.jpg" }
+			],
+			"description": {
+				"nl": "-",
+				"en": "The video circuits in most Ataris are not sufficiently decoupled from the digital noise in the system. Video power and ground are often shared with very noisy components like DRAM and this causes vertical bars to appear in the picture. Atari actually put components in some XL's to blur the image in an attempt to clear up the lines.\n \nTo solve the problem(s), the UAV:\n 1. Has an on-board regulator to create a clean video power source.\n 2. Has a 3-channel video amplifier designed for 75 ohm loads.\n 3. Has a pixel re-clocking circuit to remove skew and better align the 4 luminance signals into a perfect pixel edge.\n 4. Has a carefully designed chroma-shaping circuit.\n \nThe video output of the modified machine is crisp, even on modern screends. The board comes in a couple of versions, specific to the needs of the Atari you need to fit it in."
 			}
 		},
 		{
