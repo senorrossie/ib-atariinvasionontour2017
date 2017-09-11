@@ -1,0 +1,13 @@
+{
+    "id": "xegs",
+    "name": "Atari XEGS",
+    "alias": "?",
+    "platform": "8-bit",
+    "released": "11-1987",
+    "dropped": "12-1991",
+    "RAM": "64k",
+    "price": "$199",
+    "description": {
+        "en": "The Atari XE Game System was released in the wake of the success of Nintendo.\n \nUsing a platform with lots of available games and peripherals was an advantage, or so was the idea.\n \nThe XEGS game with a light gun and built-in Missile Command game.\n \nIt was not the success that was hoped for, most likely due to marketing failures and the system was discontinued at the beginning of 1991."
+    }
+}

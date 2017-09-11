@@ -8,6 +8,6 @@
     "RAM": "16k",
     "price": "$199",
     "description": {
-        "en": "The Atari 600XL was, like its predecessor the 1200XL, short lived. In production for only a year, the 'Liz NY' model was the spritual replacement for the Atari 400."
+        "en": "The Atari 600XL was, like its predecessor the 1200XL, short lived. In production for only a year, the 'Liz NY' model was the spritual replacement for the Atari 400.\n \nAlthough they looked like the 1200XL, albeit smaller, the new XL machines had features the 1200XL lacked: internal BASIC and a Parallel Bus Interface (PBI) at the back that allowed external expansion.\n \nThe best known PBI expansion peripheral was the 1064 memory expansion for the 600XL."
     }
 }

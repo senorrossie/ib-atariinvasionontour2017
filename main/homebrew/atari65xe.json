@@ -1,0 +1,13 @@
+{
+    "id": "65xe",
+    "name": "Atari 65XE",
+    "alias": "?",
+    "platform": "8-bit",
+    "released": "04-1986",
+    "dropped": "12-1991",
+    "RAM": "64k",
+    "price": "$100",
+    "description": {
+        "en": "The Atari 65XE was announced shortly after Atari was taken over by the Tramiels.\n \nAnnounced at winter CES 1985, the XE range of computers was to continue on the success of the 800XL, hence its name: XL Expanded.\n \nThe initial release lacked an expansion port (US), which was quickly added before the launch in Europe, where it also became known as the 800XE (mostly Eastern Europe)."
+    }
+}

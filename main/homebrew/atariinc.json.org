@@ -38,6 +38,84 @@
             "description": {
                 "en": "The Atari 1200XL was short lived. Announced in december 1982 and presented during winter CES in january 1983, it shipped in march.\n \nThe machine had a lot of issues and even incomplete features (improved video circuit not connected to monitor jack). Design changes led to non working peripherals (Atari and 3rd party) and OS changes also resulted in incompatible software.\n \nThe press warned Atari of the hefty price tag, by comparison, the 800 it should supersed was sold at less than $700. It is told that people started hoarding the 800 machines, afraid the machine would disappear soon.\n \nThe 1200XL is not released in a PAL version."
             }
+        },
+        {
+            "id": "600xl",
+            "name": "Atari 600XL",
+            "alias": "Liz NY/Sweet 16",
+            "platform": "8-bit",
+            "released": "06-1983",
+            "dropped": "06-1984",
+            "RAM": "16k",
+            "price": "$199",
+            "description": {
+                "en": "The Atari 600XL was, like its predecessor the 1200XL, short lived. In production for only a year, the 'Liz NY' model was the spritual replacement for the Atari 400.\n \nAlthough they looked like the 1200XL, albeit smaller, the new XL machines had features the 1200XL lacked: internal BASIC and a Parallel Bus Interface (PBI) at the back that allowed external expansion.\n \nThe best known PBI expansion peripheral was the 1064 memory expansion for the 600XL."
+            }
+        },
+        {
+            "id": "800xl",
+            "name": "Atari 800XL",
+            "alias": "Liz NY/Sweet 16",
+            "platform": "8-bit",
+            "released": "06-1983",
+            "dropped": "02-1985",
+            "RAM": "64k",
+            "price": "$299",
+            "description": {
+                "en": "The Atari 800XL was the bigger brother of the 600XL, both in size and capacity. It was to replace both the Atari 800 and the Atari 1200XL.\n \nAlthough the 800XL would ultimately be the most popular computer sold by Atari, the company was unable to defend its marketshare, and the race to the bottom reduced Atari's profits. The 600/800 were well positioned in terms of price and features, but during the critical Christmas season they were available only in small numbers while the Commodore 64 was widely available, because Atari had difficulty in transitioning manufacturing to Asia after closing its US factory."
+            }
+        },
+        {
+            "id": "130xe",
+            "name": "Atari 130XE",
+            "alias": "?",
+            "platform": "8-bit",
+            "released": "04-1985",
+            "dropped": "12-1991",
+            "RAM": "128k",
+            "price": "$299.95",
+            "description": {
+                "en": "The Atari 130XE was released shortly after Atari was taken over by the Tramiels.\n \nAnnounced at winter CES 1985, the XE range of computers was to continue on the success of the 800XL, hence its name: XL Expanded.\n \nNotable changes in design were the switch to an ECI port (no atari hardware used it) and the 64k of extra RAM. Manufacturing ended in december of 1991."
+            }
+        },
+        {
+            "id": "65xe",
+            "name": "Atari 65XE",
+            "alias": "?",
+            "platform": "8-bit",
+            "released": "04-1986",
+            "dropped": "12-1991",
+            "RAM": "64k",
+            "price": "$100",
+            "description": {
+                "en": "The Atari 65XE was announced shortly after Atari was taken over by the Tramiels.\n \nAnnounced at winter CES 1985, the XE range of computers was to continue on the success of the 800XL, hence its name: XL Expanded.\n \nThe initial release lacked an expansion port (US), which was quickly added before the launch in Europe, where it also became known as the 800XE (mostly Eastern Europe)."
+            }
+        },
+        {
+            "id": "800xe",
+            "name": "Atari 800XE",
+            "alias": "?",
+            "platform": "8-bit",
+            "released": "04-1986",
+            "dropped": "12-1991",
+            "RAM": "64k",
+            "price": "$100",
+            "description": {
+                "en": "The Atari 800XE was announced shortly after Atari was taken over by the Tramiels.\n \nAnnounced at winter CES 1985, the XE range of computers was to continue on the success of the 800XL, hence its name: XL Expanded.\n \nThe 800XE range was mostly distributed in Eastern Europe and was basically an XE case with a 65XE or 130XE mainboard and a 800XE badge. It was the console that was manufactured right until the announcement of Atari's discontinuation of the 8-bit computers."
+            }
+        },
+        {
+            "id": "xegs",
+            "name": "Atari XEGS",
+            "alias": "?",
+            "platform": "8-bit",
+            "released": "11-1987",
+            "dropped": "12-1991",
+            "RAM": "64k",
+            "price": "$199",
+            "description": {
+                "en": "The Atari XE Game System was released in the wake of the success of Nintendo.\n \nUsing a platform with lots of available games and peripherals was an advantage, or so was the idea.\n \nThe XEGS game with a light gun and built-in Missile Command game.\n \nIt was not the success that was hoped for, most likely due to marketing failures and the system was discontinued at the beginning of 1991."
+            }
         }
 	],
 	"software": [

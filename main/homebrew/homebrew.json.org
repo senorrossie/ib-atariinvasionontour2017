@@ -660,7 +660,7 @@
 			],
 			"description": {
 				"nl": "Zoals met zovele homebrew games, heeft het even geduurd voordat dit spel werd uitgebracht. In het geval van Rebooteroids duurde het ontwikkeltraject zes jaar.\n \nHet verhaal: Het 'hyperspace test schip' EWS werkt niet goed meer. Zonder navigatie data bevind je je in een zee van dodelijke, draaiende objecten. Wapens werken nog en met de hyper drive kun je nog korte sprongen maken. Maar verder moet je het van je reactievermogen hebben, wil je een kans maken te overleven.",
-				"en": "It took a while until this game was released, ss always with a lot of howebrew games. In case of Rebooteroids the development took six years.\n \nThe story: the 'the hyperspace test ship' EWS is malfunctioning. Without navigational data you find yourself in a deadly sea of rotating objects. Weapons still work and you can make small leaps with the hyper drive. But it requires your responsiveness to have a chance to survive."
+				"en": "It took a while until this game was released, as always with a lot of howebrew games. In case of Rebooteroids the development took six years.\n \nThe story: the 'the hyperspace test ship' EWS is malfunctioning. Without navigational data you find yourself in a deadly sea of rotating objects. Weapons still work and you can make small leaps with the hyper drive. But it requires your responsiveness to have a chance to survive."
 			}
 		}
     ]

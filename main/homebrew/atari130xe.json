@@ -1,0 +1,13 @@
+{
+    "id": "130xe",
+    "name": "Atari 130XE",
+    "alias": "?",
+    "platform": "8-bit",
+    "released": "04-1985",
+    "dropped": "12-1991",
+    "RAM": "128k",
+    "price": "$299.95",
+    "description": {
+        "en": "The Atari 130XE was released shortly after Atari was taken over by the Tramiels.\n \nAnnounced at winter CES 1985, the XE range of computers was to continue on the success of the 800XL, hence its name: XL Expanded.\n \nNotable changes in design were the switch to an ECI port (no atari hardware used it) and the 64k of extra RAM. Manufacturing ended in december of 1991."
+    }
+}

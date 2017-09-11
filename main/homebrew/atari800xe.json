@@ -1,0 +1,13 @@
+{
+    "id": "800xe",
+    "name": "Atari 800XE",
+    "alias": "?",
+    "platform": "8-bit",
+    "released": "04-1986",
+    "dropped": "12-1991",
+    "RAM": "64k",
+    "price": "$100",
+    "description": {
+        "en": "The Atari 800XE was announced shortly after Atari was taken over by the Tramiels.\n \nAnnounced at winter CES 1985, the XE range of computers was to continue on the success of the 800XL, hence its name: XL Expanded.\n \nThe 800XE range was mostly distributed in Eastern Europe and was basically an XE case with a 65XE or 130XE mainboard and a 800XE badge. It was the console that was manufactured right until the announcement of Atari's discontinuation of the 8-bit computers."
+    }
+}
